@@ -16,3 +16,4 @@ class Post(models.Model):   #オブジェクトの定義 モデル名は大文�
 
     def __str__(self):
         return self.title
+
